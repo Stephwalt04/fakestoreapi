@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto">
         <p className="text-white text-center">
           Copyright &copy; Ecommerce Shop 2024. All Rights Reserved. Desgined by{" "}
-          <a href="http://https://github.com/greatestofal"> Greatest Of All</a>
+          <a href="https://github.com/Stephwalt04"> StephWalt</a>
         </p>
       </div>
     </footer>
