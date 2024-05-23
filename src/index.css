@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-primary text-primary;
+  }
+}
+@media (max-width: 768px) {
+  .hidden-on-small {
+    display: none;
+  }
+}
